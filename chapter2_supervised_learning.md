@@ -102,7 +102,7 @@
   - conditioning at a point is realized to conditioning on some region "close" to the target point
 - For large training size, the points in the neighbourhood are close to the actual value of $x \in X$
 - When k increases, the average will become more stable
-> When we have infinite training data $n \rightarrow \infin$ *and* set k to be infinite $k \rightarrow \infin$ we have a universal approximator, since (1)all neighbours are the point $x$ itself and (2)the average is extremely stable, the number of parameters for KNN: $\frac{k}{n} \approx 0$
+> When we have infinite training data $n \rightarrow \infty$ *and* set k to be infinite $k \rightarrow \infty$ we have a universal approximator, since (1)all neighbours are the point $x$ itself and (2)the average is extremely stable, the number of parameters for KNN: $\frac{k}{n} \approx 0$
 
 -  But doesnt happen because
 -  1) we do not have infinite samples
