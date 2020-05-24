@@ -1,9 +1,9 @@
-## Chapter 2 Overview of Supervised Learning
+# Chapter 2 Overview of Supervised Learning
 *until line 91, the delivery of the content will be some parts on theory, and some parts on practical*
 
 *After which, the content will just be subpoints that follows in a chapter.*
 
-### Types of supervised learning
+## Types of supervised learning
 - Quantitative (Regression)
 - Qualitative (Classification)
 
@@ -91,7 +91,7 @@
   - **basis expansions** of original inputs
   - projection pursuit and NN; **sum of non-linearly transformed linear models**.
 
-#### 2.1 Statistical Decision Boundary
+## 2.1 Statistical Decision Boundary
 ### Linear regression
 - When we use Mean Squared Error:
   - The conditional expectation: $f(x) = E(Y|X = x)$ is the best prediction of $Y$ at any point $x \in X$

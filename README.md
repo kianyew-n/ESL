@@ -1,5 +1,5 @@
 # Elements of Statistical Learning Notes
-
+#### will not be updating this anytime soon until i find a way to make it productive 
 - This is my personal notes for the popular book ESL
 - It will include headers, subheader and my personal markers to test and remind myself of the content and get a top down view on the chapters.
 
